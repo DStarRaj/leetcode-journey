@@ -17,5 +17,19 @@ class Solution:
 
 
 if __name__ == "__main__":
-    a = Solution()
-    print(a.isPalindrome(10))
+    test_cases = [
+        121,
+        -121,
+        10,
+    ]
+    test_results = [
+        True,
+        False,
+        False,
+    ]
+
+    for test, result in zip(test_cases, test_results):
+        a = Solution()
+        assert a.isPalindrome(test) == result
+
+    print("Passed")
