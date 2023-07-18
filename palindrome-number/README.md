@@ -2,7 +2,7 @@
 
 [Link to LeetCode](https://leetcode.com/problems/palindrome-number/)
 
-Given an integer `x`, return `true` if `x` is a [palindrome](palindrome.md), and `false` otherwise.
+Given an integer `x`, return `true` if `x` is a [palindrome](../helper-docs/palindrome.md), and `false` otherwise.
 
 ---
 

@@ -2,7 +2,7 @@
 
 [Link to LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-Given a string `s`, find the length of the <strong>longest [substring](substring.md)</strong> without repeating characters.
+Given a string `s`, find the length of the <strong>longest [substring](../helper-docs/substring.md)</strong> without repeating characters.
 
 ---
 
