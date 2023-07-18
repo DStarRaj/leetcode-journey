@@ -2,7 +2,7 @@
 
 [Link to LeetCode](https://leetcode.com/problems/longest-palindromic-substring/description/)
 
-Given a string `s`, return <em>the longest [palindromic](../helper-docs/palindromic.md) [substring](../helper-docs/substring.md)</em> in `s`.
+Given a string `s`, return <em>the longest [palindromic](../../helper-docs/palindromic.md) [substring](../../helper-docs/substring.md)</em> in `s`.
 
 ---
 
