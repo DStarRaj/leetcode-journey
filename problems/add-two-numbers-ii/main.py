@@ -60,9 +60,7 @@ class Solution:
 
         return self.list_to_linklist(nums)
 
-    def addTwoNumbers(
-        self, l1: Optional[ListNode], l2: Optional[ListNode]
-    ) -> Optional[ListNode]:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         num1 = self.linklist_to_num(l1)
         num2 = self.linklist_to_num(l2)
         return self.num_to_linklist(num1 + num2)
