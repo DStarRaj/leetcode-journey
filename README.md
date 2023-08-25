@@ -10,6 +10,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |7|[Reverse Integer](problems/reverse-integer)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
 |9|[Palindrome Number](problems/palindrome-number)|![Static Badge](https://img.shields.io/badge/Easy-green)|
 |68|[Text Justification](problems/text-justification)|![Static Badge](https://img.shields.io/badge/Hard-red)|
+|97|[Interleaving String](problems/interleaving-string)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
 |146|[LRU Cache](problems/lru-cache)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
 |207|[Course Schedule](problems/course-schedule)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
 |338|[Counting Bits](problems/counting-bits)|![Static Badge](https://img.shields.io/badge/Easy-green)|
