@@ -16,6 +16,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |207|[Course Schedule](problems/course-schedule)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
 |338|[Counting Bits](problems/counting-bits)|![Static Badge](https://img.shields.io/badge/Easy-green)|
 |445|[Add Two Numbers II](problems/add-two-numbers-ii)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
+|646|[Maximum Length of Pair Chain](problems/maximum-length-of-pair-chain)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
 |802|[Find Eventual Safe States](problems/find-eventual-safe-states)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
 |1218|[Longest Arithmetic Subsequence of Given Difference](problems/longest-arithmetic-subsequence-of-given-difference)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
 |1402|[Reducing Dishes](problems/reducing-dishes)|![Static Badge](https://img.shields.io/badge/Hard-red)|
