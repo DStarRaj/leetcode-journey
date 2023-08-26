@@ -9,6 +9,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |5|[Longest Palindromic Substring](problems/longest-palindromic-substring)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
 |7|[Reverse Integer](problems/reverse-integer)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
 |9|[Palindrome Number](problems/palindrome-number)|![Static Badge](https://img.shields.io/badge/Easy-green)|
+|27|[Remove Element](problems/remove-element)|![Static Badge](https://img.shields.io/badge/Easy-green)|
 |68|[Text Justification](problems/text-justification)|![Static Badge](https://img.shields.io/badge/Hard-red)|
 |88|[Merge Sorted Array](problems/merge-sorted-array)|![Static Badge](https://img.shields.io/badge/Easy-green)|
 |97|[Interleaving String](problems/interleaving-string)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
