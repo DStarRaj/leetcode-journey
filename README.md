@@ -15,6 +15,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |80|[Remove Duplicates from Sorted Array II](problems/remove-duplicates-from-sorted-array-ii)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |88|[Merge Sorted Array](problems/merge-sorted-array)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |97|[Interleaving String](problems/interleaving-string)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
+|121|[Best Time to Buy and Sell Stock](problems/best-time-to-buy-and-sell-stock)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |146|[LRU Cache](problems/lru-cache)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |169|[Majority Element](problems/majority-element)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |189|[Rotate Array](problems/rotate-array)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
