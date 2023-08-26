@@ -15,15 +15,12 @@ The judge will test your solution with the following code:
 
 ```
 int[] nums = [...]; // Input array
-int val = ...; // Value to remove
-int[] expectedNums = [...]; // The expected answer with correct length.
-                            // It is sorted with no values equaling val.
+int[] expectedNums = [...]; // The expected answer with correct length
 
-int k = removeElement(nums, val); // Calls your implementation
+int k = removeDuplicates(nums); // Calls your implementation
 
 assert k == expectedNums.length;
-sort(nums, 0, k); // Sort the first k elements of nums
-for (int i = 0; i < actualLength; i++) {
+for (int i = 0; i < k; i++) {
     assert nums[i] == expectedNums[i];
 }
 ```

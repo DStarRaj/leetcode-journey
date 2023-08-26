@@ -12,6 +12,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |26|[Remove Duplicates from Sorted Array](problems/remove-duplicates-from-sorted-array)|![Static Badge](https://img.shields.io/badge/Easy-green)|
 |27|[Remove Element](problems/remove-element)|![Static Badge](https://img.shields.io/badge/Easy-green)|
 |68|[Text Justification](problems/text-justification)|![Static Badge](https://img.shields.io/badge/Hard-red)|
+|80|[Remove Duplicates from Sorted Array II](problems/remove-duplicates-from-sorted-array-ii)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
 |88|[Merge Sorted Array](problems/merge-sorted-array)|![Static Badge](https://img.shields.io/badge/Easy-green)|
 |97|[Interleaving String](problems/interleaving-string)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
 |146|[LRU Cache](problems/lru-cache)|![Static Badge](https://img.shields.io/badge/Medium-yellow)|
