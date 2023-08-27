@@ -14,14 +14,14 @@ Return _the maximum profit you can achieve from this transaction_. If you cannot
 
 <pre><code><strong>Input:</strong> prices = [7,1,5,3,6,4]
 <strong>Output:</strong> 5
-<strong>Explanation:</strong>Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
+<strong>Explanation:</strong> Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
 Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.</code></pre>
 
 ### Example 2:
 
 <pre><code><strong>Input:</strong> prices = [7,6,4,3,1]
 <strong>Output:</strong> 0
-<strong>Explanation:</strong>In this case, no transactions are done and the max profit = 0.</code></pre>
+<strong>Explanation:</strong> In this case, no transactions are done and the max profit = 0.</code></pre>
 
 ### Constraints:
 
