@@ -23,6 +23,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |169|[Majority Element](problems/majority-element)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |189|[Rotate Array](problems/rotate-array)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |207|[Course Schedule](problems/course-schedule)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
+|274|[H-Index](problems/h-index)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |338|[Counting Bits](problems/counting-bits)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |403|[Frog Jump](problems/frog-jump)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |445|[Add Two Numbers II](problems/add-two-numbers-ii)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
