@@ -19,6 +19,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |97|[Interleaving String](problems/interleaving-string)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |121|[Best Time to Buy and Sell Stock](problems/best-time-to-buy-and-sell-stock)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |122|[Best Time to Buy and Sell Stock II](problems/best-time-to-buy-and-sell-stock-ii)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
+|134|[Gas Station](problems/gas-station)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |146|[LRU Cache](problems/lru-cache)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |169|[Majority Element](problems/majority-element)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |189|[Rotate Array](problems/rotate-array)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
