@@ -11,6 +11,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |9|[Palindrome Number](problems/palindrome-number)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |26|[Remove Duplicates from Sorted Array](problems/remove-duplicates-from-sorted-array)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |27|[Remove Element](problems/remove-element)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
+|45|[Jump Game II](problems/jump-game-ii)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |55|[Jump Game](problems/jump-game)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |68|[Text Justification](problems/text-justification)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |80|[Remove Duplicates from Sorted Array II](problems/remove-duplicates-from-sorted-array-ii)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
