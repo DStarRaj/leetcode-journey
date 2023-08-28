@@ -23,8 +23,9 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |146|[LRU Cache](problems/lru-cache)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |169|[Majority Element](problems/majority-element)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |189|[Rotate Array](problems/rotate-array)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
-|238|[Product of Array Except Self](problems/product-of-array-except-self)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |207|[Course Schedule](problems/course-schedule)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
+|225|[Implement Stack using Queues](problems/implement-stack-using-queues)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
+|238|[Product of Array Except Self](problems/product-of-array-except-self)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |274|[H-Index](problems/h-index)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |338|[Counting Bits](problems/counting-bits)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |380|[Insert Delete GetRandom O(1)](problems/insert-delete-getrandom-o1)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
