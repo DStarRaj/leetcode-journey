@@ -35,3 +35,4 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |802|[Find Eventual Safe States](problems/find-eventual-safe-states)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |1218|[Longest Arithmetic Subsequence of Given Difference](problems/longest-arithmetic-subsequence-of-given-difference)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |1402|[Reducing Dishes](problems/reducing-dishes)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
+|2483|[Minimum Penalty for a Shop](problems/minimum-penalty-for-a-shop)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
