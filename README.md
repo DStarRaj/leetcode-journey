@@ -38,3 +38,4 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |1402|[Reducing Dishes](problems/reducing-dishes)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |2366|[Minimum Replacements to Sort the Array](problems/minimum-replacements-to-sort-the-array)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |2483|[Minimum Penalty for a Shop](problems/minimum-penalty-for-a-shop)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
+|2707|[Extra Characters in a String](problems/extra-characters-in-a-string)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
