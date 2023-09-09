@@ -33,6 +33,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |238|[Product of Array Except Self](problems/product-of-array-except-self)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |274|[H-Index](problems/h-index)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |338|[Counting Bits](problems/counting-bits)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
+|377|[Combination Sum IV](problems/combination-sum-iv)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |380|[Insert Delete GetRandom O(1)](problems/insert-delete-getrandom-o1)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |403|[Frog Jump](problems/frog-jump)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |445|[Add Two Numbers II](problems/add-two-numbers-ii)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
