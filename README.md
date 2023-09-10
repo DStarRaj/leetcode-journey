@@ -42,6 +42,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |802|[Find Eventual Safe States](problems/find-eventual-safe-states)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |1218|[Longest Arithmetic Subsequence of Given Difference](problems/longest-arithmetic-subsequence-of-given-difference)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |1326|[Minimum Number of Taps to Open to Water a Garden](problems/minimum-number-of-taps-to-open-to-water-a-garden)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
+|1359|[Count All Valid Pickup and Delivery Options](problems/count-all-valid-pickup-and-delivery-options)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |1402|[Reducing Dishes](problems/reducing-dishes)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |2366|[Minimum Replacements to Sort the Array](problems/minimum-replacements-to-sort-the-array)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |2483|[Minimum Penalty for a Shop](problems/minimum-penalty-for-a-shop)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
