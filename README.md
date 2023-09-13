@@ -23,6 +23,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |121|[Best Time to Buy and Sell Stock](problems/best-time-to-buy-and-sell-stock)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |122|[Best Time to Buy and Sell Stock II](problems/best-time-to-buy-and-sell-stock-ii)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |134|[Gas Station](problems/gas-station)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
+|135|[Candy](problems/candy)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |138|[Copy List with Random Pointer](problems/copy-list-with-random-pointer)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |141|[Linked List Cycle](problems/linked-list-cycle)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |146|[LRU Cache](problems/lru-cache)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
