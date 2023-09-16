@@ -48,6 +48,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |1326|[Minimum Number of Taps to Open to Water a Garden](problems/minimum-number-of-taps-to-open-to-water-a-garden)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |1359|[Count All Valid Pickup and Delivery Options](problems/count-all-valid-pickup-and-delivery-options)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |1584|[Min Cost to Connect All Points](problems/min-cost-to-connect-all-points)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
+|1631|[Path With Minimum Effort](problems/path-with-minimum-effort)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |1647|[Minimum Deletions to Make Character Frequencies Unique](problems/minimum-deletions-to-make-character-frequencies-unique)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |1402|[Reducing Dishes](problems/reducing-dishes)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |2366|[Minimum Replacements to Sort the Array](problems/minimum-replacements-to-sort-the-array)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
