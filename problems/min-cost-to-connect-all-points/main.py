@@ -65,9 +65,17 @@ class Solution:
 
 
 if __name__ == "__main__":
-    a = Solution()
-    print(
-        a.minCostConnectPoints(
-            [[7, 18], [-15, 19], [-18, -15], [-7, 14], [4, 1], [-6, 3]]
-        )
-    )
+    test_cases = [
+        [[0, 0], [2, 2], [3, 10], [5, 2], [7, 0]],
+        [[3, 12], [-2, 5], [-4, 1]],
+    ]
+    test_results = [
+        20,
+        18,
+    ]
+
+    for test, result in zip(test_cases, test_results):
+        a = Solution()
+        assert a.minCostConnectPoints(test) == result
+
+    print("Passed")
