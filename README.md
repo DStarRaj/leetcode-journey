@@ -7,6 +7,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |3|[Longest Substring Without Repeating Characters](problems/longest-substring-without-repeating-characters)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |4|[Median of Two Sorted Arrays](problems/median-of-two-sorted-arrays)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |5|[Longest Palindromic Substring](problems/longest-palindromic-substring)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
+|6|[Zigzag Conversion](problems/zigzag-conversion)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |7|[Reverse Integer](problems/reverse-integer)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |9|[Palindrome Number](problems/palindrome-number)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |12|[Integer to Roman](problems/integer-to-roman)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
