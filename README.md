@@ -49,6 +49,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |725|[Split Linked List in Parts](problems/split-linked-list-in-parts)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |802|[Find Eventual Safe States](problems/find-eventual-safe-states)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |847|[Shortest Path Visiting All Nodes](problems/shortest-path-visiting-all-nodes)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
+|1048|[Longest String Chain](problems/longest-string-chain)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |1218|[Longest Arithmetic Subsequence of Given Difference](problems/longest-arithmetic-subsequence-of-given-difference)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |1282|[Group the People Given the Group Size They Belong To](problems/group-the-people-given-the-group-size-they-belong-to)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |1326|[Minimum Number of Taps to Open to Water a Garden](problems/minimum-number-of-taps-to-open-to-water-a-garden)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
