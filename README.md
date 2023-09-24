@@ -47,6 +47,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |445|[Add Two Numbers II](problems/add-two-numbers-ii)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |646|[Maximum Length of Pair Chain](problems/maximum-length-of-pair-chain)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |725|[Split Linked List in Parts](problems/split-linked-list-in-parts)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
+|799|[Champagne Tower](problems/champagne-tower)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |802|[Find Eventual Safe States](problems/find-eventual-safe-states)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |847|[Shortest Path Visiting All Nodes](problems/shortest-path-visiting-all-nodes)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |1048|[Longest String Chain](problems/longest-string-chain)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
