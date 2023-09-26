@@ -38,6 +38,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |238|[Product of Array Except Self](problems/product-of-array-except-self)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |274|[H-Index](problems/h-index)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |287|[Find the Duplicate Number](problems/find-the-duplicate-number)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
+|316|[Remove Duplicate Letters](problems/remove-duplicate-letters)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |332|[Reconstruct Itinerary](problems/reconstruct-itinerary)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |338|[Counting Bits](problems/counting-bits)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |377|[Combination Sum IV](problems/combination-sum-iv)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
