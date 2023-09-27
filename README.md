@@ -33,6 +33,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |138|[Copy List with Random Pointer](problems/copy-list-with-random-pointer)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |141|[Linked List Cycle](problems/linked-list-cycle)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |146|[LRU Cache](problems/lru-cache)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
+|167|[Two Sum II - Input Array Is Sorted](problems/two-sum-ii-input-array-is-sorted)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |169|[Majority Element](problems/majority-element)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |189|[Rotate Array](problems/rotate-array)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |207|[Course Schedule](problems/course-schedule)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
