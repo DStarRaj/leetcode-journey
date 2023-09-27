@@ -52,6 +52,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |799|[Champagne Tower](problems/champagne-tower)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |802|[Find Eventual Safe States](problems/find-eventual-safe-states)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |847|[Shortest Path Visiting All Nodes](problems/shortest-path-visiting-all-nodes)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
+|880|[Decoded String at Index](problems/decoded-string-at-index)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |1048|[Longest String Chain](problems/longest-string-chain)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |1218|[Longest Arithmetic Subsequence of Given Difference](problems/longest-arithmetic-subsequence-of-given-difference)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |1282|[Group the People Given the Group Size They Belong To](problems/group-the-people-given-the-group-size-they-belong-to)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
