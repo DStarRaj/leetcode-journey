@@ -13,6 +13,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |11|[Container With Most Water](problems/container-with-most-water)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |12|[Integer to Roman](problems/integer-to-roman)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |13|[Roman to Integer](problems/roman-to-integer)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
+|15|[3Sum](problems/3sum)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |26|[Remove Duplicates from Sorted Array](problems/remove-duplicates-from-sorted-array)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |27|[Remove Element](problems/remove-element)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |28|[Find the Index of the First Occurrence in a String](problems/find-the-index-of-the-first-occurrence-in-a-string)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
