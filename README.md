@@ -10,6 +10,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |6|[Zigzag Conversion](problems/zigzag-conversion)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |7|[Reverse Integer](problems/reverse-integer)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |9|[Palindrome Number](problems/palindrome-number)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
+|11|[Container With Most Water](problems/container-with-most-water)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |12|[Integer to Roman](problems/integer-to-roman)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |13|[Roman to Integer](problems/roman-to-integer)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |26|[Remove Duplicates from Sorted Array](problems/remove-duplicates-from-sorted-array)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
