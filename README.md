@@ -23,6 +23,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |55|[Jump Game](problems/jump-game)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |62|[Unique Paths](problems/unique-paths)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |68|[Text Justification](problems/text-justification)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
+|76|[Minimum Window Substring](problems/minimum-window-substring)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |80|[Remove Duplicates from Sorted Array II](problems/remove-duplicates-from-sorted-array-ii)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |88|[Merge Sorted Array](problems/merge-sorted-array)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |92|[Reverse Linked List II](problems/reverse-linked-list-ii)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
