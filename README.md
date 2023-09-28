@@ -17,6 +17,7 @@ This repo is made to keep a track of LeetCode problems I tend to solve.
 |26|[Remove Duplicates from Sorted Array](problems/remove-duplicates-from-sorted-array)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |27|[Remove Element](problems/remove-element)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
 |28|[Find the Index of the First Occurrence in a String](problems/find-the-index-of-the-first-occurrence-in-a-string)|![Static Badge](https://img.shields.io/badge/Easy-C7EA46)|
+|30|[Substring with Concatenation of All Words](problems/substring-with-concatenation-of-all-words)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |42|[Trapping Rain Water](problems/trapping-rain-water)|![Static Badge](https://img.shields.io/badge/Hard-FF2400)|
 |45|[Jump Game II](problems/jump-game-ii)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
 |55|[Jump Game](problems/jump-game)|![Static Badge](https://img.shields.io/badge/Medium-FFBF00)|
